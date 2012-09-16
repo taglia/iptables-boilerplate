@@ -8,8 +8,8 @@
 ## this rule does NOT open port 22. it just drops "too many attempts" on port 22
 
 
-## we allow at max 5 new connections per minute
-CONNECTIONS=5
+## we allow at max 3 new connections per minute
+CONNECTIONS=3
 SECONDS=60
 
 

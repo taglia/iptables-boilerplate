@@ -6,8 +6,8 @@
 ## and helps to prevent dictonary-attacks
 
 
-## we allow at max 120 new connections per minute
-CONNECTIONS=120
+## we allow at max 20 new connections per minute
+CONNECTIONS=20
 SECONDS=60
 
 
